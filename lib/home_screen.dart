@@ -131,6 +131,7 @@ class _homescreenState extends State<homescreen> {
                         onChanged: (newvalue) {
                           setState(() {
                             fromCurrency = newvalue!;
+                            _getRates();
                           });
                         },
                       ),
