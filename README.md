@@ -1,16 +1,12 @@
-# currency_convertor
+<h3 align="center">Flutter Currency Convertor Rest API</h3>
+ 
+## How to Contribute
 
-A new Flutter project.
+We welcome contributions from the community to enhance the features and functionality of this animation project. If you're interested in contributing, follow these steps:
 
-## Getting Started
+1. Fork the repository to your GitHub account.
+2. Make your desired changes and improvements to the project.
+3. Test your changes thoroughly to ensure they work as intended.
+4. Submit a pull request to the main repository, detailing the changes you've made and any relevant information.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Thank You !
